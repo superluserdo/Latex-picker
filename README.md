@@ -2,7 +2,7 @@
 
 [![](https://img.youtube.com/vi/mlvz9h1Gqek/0.jpg)](https://www.youtube.com/watch?v=mlvz9h1Gqek) 
 
-Inspired by Luke Smith's [dmenu unicode picker](https://github.com/LukeSmithxyz/voidrice/blob/master/.scripts/i3cmds/dmenuunicode)
+[Inspired by/mostly taken from] Luke Smith's [dmenu unicode picker](https://github.com/LukeSmithxyz/voidrice/blob/master/.scripts/i3cmds/dmenuunicode)
 
 ## Requires:
 * X11 (Linux)
