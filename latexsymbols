@@ -1,0 +1,270 @@
+<   ;< ;is less than 
+>   ;> ;is greater than
+≮   ;\nless ;is not less than 
+≯   ;\ngtr ;is not greater tha
+≤   ;\leq ;is less than or equal to 
+≥   ;\geq ;is greater than or equal to
+⩽   ;\leqslant ;is less than or equal to 
+⩾   ;\geqslant ;is greater than or equal to
+≰   ;\nleq ;is neither less than nor equal to 
+≱   ;\ngeq ;is neither greater than nor equal to
+⪇   ;\nleqslant ;is neither less than nor equal to 
+⪈   ;\ngeqslant ;is neither greater than nor equal to
+≺   ;\prec ;precedes 
+≻   ;\succ ;succeeds
+⊀   ;\nprec ;doesn't precede 
+⊁   ;\nsucc ;doesn't succeed
+⪯   ;\preceq ;precedes or equals 
+⪰   ;\succeq ;succeeds or equals
+⋠   ;\npreceq ;neither precedes nor equals 
+⋡   ;\nsucceq ;neither succeeds nor equals
+≪   ;\ll ;  
+≫   ;\gg ; 
+⋘   ;\lll ;  
+⋙   ;\ggg ; 
+⊂   ;\subset ;is a proper subset of 
+⊃   ;\supset ;is a proper superset of
+⊄   ;\not\subset ;is not a proper subset of 
+⊅   ;\not\supset ;is not a proper superset of
+⊆   ;\subseteq ;is a subset of 
+⊇   ;\supseteq ;is a superset of
+⊈   ;\nsubseteq ;is not a subset of 
+⊉   ;\nsupseteq ;is not a superset of
+⊏   ;\sqsubset ;  
+⊐   ;\sqsupset ; 
+⊑   ;\sqsubseteq ;  
+⊒   ;\sqsupseteq ;  
+=   ;= ;is equal to
+≐   ;\doteq ; 
+≡   ;\equiv ;is equivalent to
+≈   ;\approx ;is approximately
+≅   ;\cong ;is congruent to
+≃   ;\simeq ;is similar or equal to
+∼   ;\sim ;is similar to
+∝   ;\propto ;is proportional to
+≠   ;\neq ;is not equal to 
+≠   ;\ne ;is not equal to 
+∥   ;\parallel ;is parallel with 
+∦   ;\nparallel ;is not parallel with
+≍   ;\asymp ;is asymptotic to 
+⋈   ;\bowtie ; 
+⊢   ;\vdash ;  
+⊣   ;\dashv ; 
+∈   ;\in ;is member of 
+∋   ;\ni ;owns, has member
+⌣   ;\smile ;  
+⌢   ;\frown ; 
+⊨   ;\models ;models 
+∉   ;\notin ;is not member of
+⊥   ;\perp ;is perpendicular with 
+∣   ;\mid ;divides 
+±   ;\pm ;plus or minus 
+∩   ;\cap ;set intersection 
+⋄   ;\diamond ;  
+⊕   ;\oplus ; 
+∓   ;\mp ;minus or plus 
+∪   ;\cup ;set union 
+△   ;\bigtriangleup ;  
+⊖   ;\ominus ; 
+×   ;\times ;multiplied by 
+⊎   ;\uplus ;multiset addition 
+▽   ;\bigtriangledown ;  
+⊗   ;\otimes ; 
+÷   ;\div ;divided by 
+⊓   ;\sqcap ;  
+◃   ;\triangleleft ;  
+⊘   ;\oslash ; 
+∗   ;\ast ;asterisk 
+⊔   ;\sqcup ;  
+▹   ;\triangleright ;  
+⊙   ;\odot ; 
+⋆   ;\star ;  
+∨   ;\vee ;  
+◯   ;\bigcirc ;  
+∘   ;\circ ; 
+†   ;\dagger ;  
+∧   ;\wedge ;  
+∙   ;\bullet ;  
+∖   ;\setminus ;set difference
+‡   ;\ddagger ;  
+⋅   ;\cdot ;  
+≀   ;\wr ;  
+⨿   ;\amalg ;  
+∉   ;\notin ;is not member of
+≮   ;\nless ;is not less than 
+≯   ;\ngtr ;is not greater than
+≰   ;\nleq ;is not less than or equal to 
+≱   ;\ngeq ;is not greater than or equal to
+⪇   ;\nleqslant ;  
+⪈   ;\ngeqslant ; 
+≰   ;\nleqq ;  
+≱   ;\ngeqq ; 
+⪇   ;\lneq ;  
+⪈   ;\gneq ; 
+≨   ;\lneqq ;  
+≩   ;\gneqq ; 
+≨   ;\lvertneqq ;  
+≩   ;\gvertneqq ; 
+⋦   ;\lnsim ;  
+⋧   ;\gnsim ; 
+⪉   ;\lnapprox ;  
+⪊   ;\gnapprox ; 
+⊀   ;\nprec ;does not precede 
+⊁   ;\nsucc ;does not succeed
+⋠   ;\npreceq ;neither precedes nor equals 
+⋡   ;\nsucceq ;neither succedes nor equals
+⪵   ;\precneqq ;  
+⪶   ;\succneqq ; 
+⋨   ;\precnsim ;  
+⋩   ;\succnsim ; 
+⪹   ;\precnapprox ;  
+⪺   ;\succnapprox ; 
+≁   ;\nsim ;is not similar to 
+≆   ;\ncong ;is not congruent to
+∤   ;\nshortmid ;  
+∦   ;\nshortparallel ; 
+∤   ;\nmid ;  
+∦   ;\nparallel ;is not parallel with
+⊬   ;\nvdash ;  
+⊭   ;\nvDash ; 
+⊮   ;\nVdash ;  
+⊯   ;\nVDash ; 
+⋪   ;\ntriangleleft ;  
+⋫   ;\ntriangleright ; 
+⋬   ;\ntrianglelefteq ;  
+⋭   ;\ntrianglerighteq ; 
+⊈   ;\nsubseteq ;  
+⊉   ;\nsupseteq ; 
+⊈   ;\nsubseteqq ;  
+⊉   ;\nsupseteqq ; 
+⊊   ;\subsetneq ;  
+⊋   ;\supsetneq ; 
+⊊   ;\varsubsetneq ;  
+⊋   ;\varsupsetneq ; 
+⫋   ;\subsetneqq ;  
+⫌   ;\supsetneqq ; 
+⫋   ;\varsubsetneqq ;  
+⫌   ;\varsupsetneqq ;  
+∅   ;\O ;the empty set
+∅   ;\emptyset ;the empty set
+∅   ;\varnothing ;the empty set
+N   ;\N ;set of natural numbers
+Z   ;\Z ;set of integers
+Q   ;\Q ;set of rational numbers
+A   ;\mathbb ;set of algebraic numbers
+R   ;\R ;set of real numbers
+C   ;\C ;set of complex numbers
+H   ;\mathbb ;set of quaternions
+O   ;\mathbb ;set of octonions
+S   ;\mathbb ;set of sedenions
+∈   ;\in ;is member of
+∉   ;\notin ;is not member of
+∋   ;\ni ;owns (has member)
+⊂   ;\subset ;is proper subset of
+⊆   ;\subseteq ;is subset of
+⊃   ;\supset ;is proper superset of
+⊇   ;\supseteq ;is superset of
+∪   ;\cup ;set union
+∩   ;\cap ;set intersection
+∖   ;\setminus ;set difference 
+∃   ;\exists ;there exists at least one
+∃!  ;\exists! ;there exists one and only one
+∄   ;\nexists ;there is no
+∀   ;\forall ;for all
+¬   ;\neg ;not (logical not)
+∨   ;\lor ;or (logical or)
+∧   ;\land ;and (logical and)
+⟹   ;\Longrightarrow ;implies
+⟹   ;\implies ;implies
+⇒   ;\Rightarrow ;(preferred for right implication)
+⟸   ;\Longleftarrow ;is implied by (only if)
+⇐   ;\Leftarrow ;(preferred for left implication)
+⟺   ;\iff ;is equivalent to (if and only if, iff)
+⇔   ;\Leftrightarrow ;(preferred for equivalence)
+⊤   ;\top ; 
+⊥   ;\bot ;  
+    ;\overline ;segment 
+AB→ ;\overrightarrow ;ray (half-line)
+∠   ;\angle ;angle 
+∡   ;\measuredangle ;measured angle
+△   ;\triangle ;triangle 
+◻   ;\square ;square
+≅   ;\cong ;congruent (same shape and size) 
+≆   ;\ncong ;not congruent
+∼   ;\sim ;similar (same shape) 
+≁   ;\nsim ;not similar
+‖   ;\| ;is parallel with 
+∦   ;\nparallel ;is not parallel with
+⊥   ;\perp ;is perpendicular to 
+⊥̸   ;\not\perp ;is not perpendicular to 
+|   ;| ;divides 
+‖   ;\| ;divides unitarily, is parallel with 
+/   ;/ ;slash 
+∖   ;\backslash ; 
+(   ;( \, ;left parenthesis 
+)   ;) \, ;right parenthesis 
+[   ;[ \, ;left [square] bracket 
+]   ;] \, ;right [square] bracket
+{   ;\{ ;left brace 
+}   ;\} ;right brace 
+⟨   ;\langle ;left angle bracket 
+⟩   ;\rangle ;right angle bracket
+⌈   ;\lceil ;ceiling (left) 
+⌉   ;\rceil ;ceiling (right) 
+⌊   ;\lfloor ;floor (left) 
+⌋   ;\rfloor ;floor (right)
+⌜   ;\ulcorner ;  
+⌝   ;\urcorner ;  
+⌞   ;\llcorner ;  
+⌟   ;\lrcorner ;  
+→   ;\rightarrow ;  
+→   ;\to ;  
+⇒   ;\Rightarrow ;  
+⟶   ;\longrightarrow ;  
+⟹   ;\Longrightarrow ; 
+↦   ;\mapsto ;  
+⟼   ;\longmapsto ;  ;
+←   ;\leftarrow  ;  
+←   ;\gets ;  
+⇐   ;\Leftarrow ;  
+⟵   ;\longleftarrow ;  
+⟸   ;\Longleftarrow ;  
+↑   ;\uparrow ;Knuth's up-arrow notation 
+⇑   ;\Uparrow ; 
+↓   ;\downarrow ;  
+⇓   ;\Downarrow ; 
+↕   ;\updownarrow ;  
+⇕   ;\Updownarrow ;  
+∂   ;\partial ;partial derivative 
+ı   ;\imath ;  
+ℜ   ;\Re ;real part 
+∇   ;\nabla ;del (vector calculus)
+ð   ;\eth ;  
+ȷ   ;\jmath ;  
+ℑ   ;\Im ;imaginary part 
+◻   ;\Box ; 
+ℏ   ;\hbar ;reduced Planck's constant 
+ℓ   ;\ell ;  
+℘   ;\wp ;[Weierstrass] powerset 
+∞   ;\infty ;infinity 
+    ;\sin ;sin
+    ;\arcsin ;arcsin
+    ;\csc ;csc
+    ;\arccsc;arccsc
+    ;\cos ;cos
+    ;\arccos ;arccos
+    ;\sec ;sec
+    ;\arcsec;arcsec
+    ;\tan ;tan
+    ;\arctan ;arctan
+    ;\cot ;cot
+    ;\arccot ;arccot
+    ;\sinh ;sinh
+    ;\operatorname{csch} ;csch   
+    ;\operatorname{arcsch} ;arcsch   
+    ;\operatorname{arsinh};arsinh
+    ;\operatorname{sech} ;sech   
+    ;\operatorname{arsech} ;arsech   
+    ;\operatorname{cosh};cosh
+    ;\operatorname{coth} ;coth   
+    ;\operatorname{artanh} ;artanh
