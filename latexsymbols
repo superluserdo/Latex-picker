@@ -18,10 +18,10 @@
 ⪰   ;\succeq ;succeeds or equals
 ⋠   ;\npreceq ;neither precedes nor equals 
 ⋡   ;\nsucceq ;neither succeeds nor equals
-≪   ;\ll ;  
-≫   ;\gg ; 
-⋘   ;\lll ;  
-⋙   ;\ggg ; 
+≪   ;\ll ;  much less than
+≫   ;\gg ; much greater than
+⋘   ;\lll ;  much much less than
+⋙   ;\ggg ; much much greater than
 ⊂   ;\subset ;is a proper subset of 
 ⊃   ;\supset ;is a proper superset of
 ⊄   ;\not\subset ;is not a proper subset of 
@@ -61,15 +61,15 @@
 ±   ;\pm ;plus or minus 
 ∩   ;\cap ;set intersection 
 ⋄   ;\diamond ;  
-⊕   ;\oplus ; 
+⊕   ;\oplus ;element-wise addition
 ∓   ;\mp ;minus or plus 
 ∪   ;\cup ;set union 
 △   ;\bigtriangleup ;  
-⊖   ;\ominus ; 
+⊖   ;\ominus ;element-wise subtraction
 ×   ;\times ;multiplied by 
 ⊎   ;\uplus ;multiset addition 
 ▽   ;\bigtriangledown ;  
-⊗   ;\otimes ; 
+⊗   ;\otimes ;outer product
 ÷   ;\div ;divided by 
 ⊓   ;\sqcap ;  
 ◃   ;\triangleleft ;  
@@ -77,8 +77,8 @@
 ∗   ;\ast ;asterisk 
 ⊔   ;\sqcup ;  
 ▹   ;\triangleright ;  
-⊙   ;\odot ; 
-⋆   ;\star ;  
+⊙   ;\odot ;element-wise multiplication
+⋆   ;\star ;star/asterisk
 ∨   ;\vee ;  
 ◯   ;\bigcirc ;  
 ∘   ;\circ ; 
@@ -87,7 +87,7 @@
 ∙   ;\bullet ;  
 ∖   ;\setminus ;set difference
 ‡   ;\ddagger ;  
-⋅   ;\cdot ;  
+⋅   ;\cdot ;dot multiply
 ≀   ;\wr ;  
 ⨿   ;\amalg ;  
 ∉   ;\notin ;is not member of
@@ -148,15 +148,15 @@
 ∅   ;\O ;the empty set
 ∅   ;\emptyset ;the empty set
 ∅   ;\varnothing ;the empty set
-N   ;\N ;set of natural numbers
-Z   ;\Z ;set of integers
-Q   ;\Q ;set of rational numbers
-A   ;\mathbb ;set of algebraic numbers
-R   ;\R ;set of real numbers
-C   ;\C ;set of complex numbers
-H   ;\mathbb ;set of quaternions
-O   ;\mathbb ;set of octonions
-S   ;\mathbb ;set of sedenions
+N   ;\mathbb{N} ;set of natural numbers
+Z   ;\mathbb{Z} ;set of integers
+Q   ;\mathbb{Q} ;set of rational numbers
+A   ;\mathbb{A} ;set of algebraic numbers
+R   ;\mathbb{R} ;set of real numbers
+C   ;\mathbb{C} ;set of complex numbers
+H   ;\mathbb{H} ;set of quaternions
+O   ;\mathbb{O} ;set of octonions
+S   ;\mathbb{S} ;set of sedenions
 ∈   ;\in ;is member of
 ∉   ;\notin ;is not member of
 ∋   ;\ni ;owns (has member)
@@ -181,8 +181,8 @@ S   ;\mathbb ;set of sedenions
 ⇐   ;\Leftarrow ;(preferred for left implication)
 ⟺   ;\iff ;is equivalent to (if and only if, iff)
 ⇔   ;\Leftrightarrow ;(preferred for equivalence)
-⊤   ;\top ; 
-⊥   ;\bot ;  
+⊤   ;\top ; top
+⊥   ;\bot ;  bottom
     ;\overline ;segment 
 AB→ ;\overrightarrow ;ray (half-line)
 ∠   ;\angle ;angle 
@@ -213,10 +213,10 @@ AB→ ;\overrightarrow ;ray (half-line)
 ⌉   ;\rceil ;ceiling (right) 
 ⌊   ;\lfloor ;floor (left) 
 ⌋   ;\rfloor ;floor (right)
-⌜   ;\ulcorner ;  
-⌝   ;\urcorner ;  
-⌞   ;\llcorner ;  
-⌟   ;\lrcorner ;  
+⌜   ;\ulcorner ;upper left corner
+⌝   ;\urcorner ;upper right corner
+⌞   ;\llcorner ;lower left corner
+⌟   ;\lrcorner ;upper right corner
 →   ;\rightarrow ;  
 →   ;\to ;  
 ⇒   ;\Rightarrow ;  
@@ -268,3 +268,51 @@ AB→ ;\overrightarrow ;ray (half-line)
     ;\operatorname{cosh};cosh
     ;\operatorname{coth} ;coth   
     ;\operatorname{artanh} ;artanh
+∫   ;\int_{lower}^{upper} ; integral between limits
+∬   ;\iint_V ;double integral
+∭   ;\iiint_V ;triple integral
+    ;\idotsint_V ;n-ple integral (...)
+∮   ;\oint_V ;closed integral
+∮   ;\oiint_V ;closed double integral
+∑   ;\sum_{lower}^{upper} ;sum between bounds
+∏   ;\prod_{i=a}^{b} ;product between bounds
+    ;\lim_{x} ;limit
+    ;\quad ;space equal to the current font size (= 18 mu)
+    ;\, ;3/18 of \quad (= 3 mu)
+    ;\: ;4/18 of \quad (= 4 mu)
+    ;\! ;-3/18 of \quad (= -3 mu)
+    ;\  ;(space after backslash!) 	equivalent of space in normal text
+    ;\qquad ;twice of \quad (= 36 mu) 
+†   ;^\dagger ;Hermitian conjugate (conjugate transpose)
+√   ;\sqrt ;square root
+⋮   ;\vdots ;vertical dots (ellipsis)	
+⋯   ;\cdots ;horizontal dots (ellipsis)
+⋱   ;\ddots ;diagonal dots (top left to bottom right)
+⋰   ;\reflectbox{$\ddots$} ;diagonal dots (top right to bottom left)
+ ̇   ;\dot{x} ;top dot (time derivative)
+ ̇   ;\dot{\vec{x}} ;top dot (time derivative) on vector
+ ́   ;\acute ;accent over variable
+ ̄   ;\bar ;top bar over variable
+ ̆   ;\breve ;top breve over variable
+ˇ   ;\check ;top check over variable
+... ;\dddot ;top three dots over variable
+ ̈   ;\ddot ;top two dots over variable
+`   ;\grave ;grave over variable
+ˆ   ;\hat ;operator hat over variable
+ ̊   ;\mathring ;ring over variable
+︷  ;\overbrace ;top brace over variable
+←−  ;\overleftarrow ;left arrow over variable
+←→  ;\overleftrightarrow ;left and right arrow over variable
+←−  ;\overrightarrow ;right arrow over variable
+    ;\widehat ;wide top hat over variable
+ ̃   ;\widetilde ;wide tilde over variable
+    ;\overline ;line over variable
+ ̃   ;\tilde ;tilde over variable
+    ;\underbar ;bar under variable
+︸  ;\underbrace ;brace under variable
+←−  ;\underleftarrow ;left arrow under variable
+←→  ;\underleftrightarrow ;left and right arrow under variable
+−→  ;\underrightarrow ;right arrow under variable
+_   ;\underline ;line under variable
+    ;\vec ;vector
+
